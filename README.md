@@ -1,6 +1,6 @@
-### **Where in the World? - Country Explorer**
+### **World Countries - Country Explorer**
 
-**Where in the World?** is a web application that allows users to explore information about countries around the globe. Built with **React**, **Tailwind CSS**, and the **REST Countries API**, this app provides a seamless user experience with features like:
+**World Countries** is a web application that allows users to explore information about countries around the globe. Built with **React**, **Tailwind CSS**, and the **REST Countries API**, this app provides a seamless user experience with features like:
 
 - **Search**: Find countries by name.
 - **Filter**: Filter countries by region (e.g., Africa, Europe, Asia).
